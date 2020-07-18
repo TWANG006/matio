@@ -188,3 +188,7 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
+*.db
+*.opendb
+*.db-shm
+*.db-wal
